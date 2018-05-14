@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Windows 10/Desktop/RythemHackersv1.1/RythemHackers/VR in Unity/Assets/_Scenes/basketball.unity
+  isLoaded: 1
+  isActive: 1
